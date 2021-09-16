@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliceOh
-- 👀 I’m interested in GOLANG, C++, gRPC, JWT, MQTT, Python, SQL, Postgres DB, Timescale DB, Kubernetes, Docker...
+- 👀 I’m interested in GOLANG, C++, gRPC, JWT, MQTT, Python, SQL, Postgres DB, Timescale DB, Kubernetes, Docker, Github Actions for CI/CD...
 - 🌱 I’m currently learning GOLANG.
 - 💞️ I’m looking to collaborate on data platform, especially climate data.
 
