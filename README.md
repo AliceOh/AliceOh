@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliceOh
-- 👀 I’m interested in C++20, Python, SQL, GOLANG, gRPC, Timescale DB, Kubernetes, Docker, CI/CD (Github Actions, Buildkite)...
+- 👀 I’m interested in C++20, Python, SQL, C#, GOLANG, gRPC, Timescale DB, Kubernetes, Docker, CI/CD (Github Actions, Buildkite)...
 - 🌱 I’m currently learning Javascript and SST(Serverless Stack Toolkit).
 - 💞️ I’m looking to collaborate on data platform, especially financial data.
 
